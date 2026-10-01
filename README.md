@@ -53,5 +53,5 @@ The AI evaluates potential moves through a prioritized rule-based search hierarc
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/tictactoe-ai-agent.git](https://github.com/YOUR_USERNAME/tictactoe-ai-agent.git)
+   git clone https://github.com/hiwa-abraham/tictactoe-ai-agent.git
    cd tictactoe-ai-agent
